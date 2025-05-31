@@ -1,0 +1,58 @@
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.zooporium {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 20px;
+}
+
+.resident {
+    text-align: center;
+}
+
+body {
+    background-color: white;
+    font-family: Consolas;
+    text-align: center;
+}
+
+h1 {
+    color: #798FA0;
+    font-family: Consolas;
+    text-align: center;
+}
+
+h2 {
+    color: #23747A;
+    font-family: Consolas;
+    text-align: center;
+}
+
+h3 {
+    color: #23747A;
+    font-family: Consolas;
+    text-align: center;
+}
+
+a {
+    color: #957C92;
+}
+
+a:visited {
+    color: #9A7D6E;
+}
+
+p {
+    color: black;
+    font-family: Consolas;
+    margin: 50px;
+    text-align: center;
+}
+
